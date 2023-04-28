@@ -1,4 +1,4 @@
 function restart(){
-    location.href="carte.html";
+    location.href="index.html";
 }
 
